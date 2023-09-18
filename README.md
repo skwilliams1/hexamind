@@ -1,0 +1,2 @@
+# hexamind
+AI game application
